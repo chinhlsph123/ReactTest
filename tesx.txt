@@ -1,0 +1,4 @@
+const function(){
+let a = 0;
+console.log(a)
+}
